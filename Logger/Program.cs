@@ -36,7 +36,7 @@ namespace Logger
                         writer.WriteLine(x);
                     }
                 });
-            log.Log("HIBA!!!!!!");
+            log.Log("ERROR!");
             Console.ReadLine();
         }
     }
