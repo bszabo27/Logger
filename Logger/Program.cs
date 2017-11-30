@@ -36,7 +36,7 @@ namespace Logger
                         writer.WriteLine(x);
                     }
                 });
-            log.Log("ERROR!");
+            log.Log("ERROR!!");
             Console.ReadLine();
         }
     }
